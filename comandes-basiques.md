@@ -9,3 +9,16 @@ Obtiene no solo los archivos actuales, sino también todo el historial de cambio
 
 **-Prepara un directorio de trabajo:**
 Crea un nuevo directorio en tu máquina que contiene el proyecto listo para ser editado.
+
+## git add
+
+**-  git add <nombre_archivo>:**
+Añade los cambios de un archivo específico al staging area. 
+
+**- git add :**
+Añade todos los cambios (archivos nuevos y modificados) en el directorio actual y sus subdirectorios al staging area. 
+
+**- git add -A:**
+Añade todos los cambios en todo el directorio de trabajo (tanto nuevos, como modificados y eliminados) sin importar desde dónde se ejecute el comando. 
+
+
